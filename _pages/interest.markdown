@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 permalink: /interest/
+title: Interest
 toc: true
 gallery2:
   - url: /assets/animes/yourLie.jpg

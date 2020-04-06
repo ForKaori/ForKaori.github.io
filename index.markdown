@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 toc: true
+title: Welcome!
 ---
 
 ## Welcome to my website !
