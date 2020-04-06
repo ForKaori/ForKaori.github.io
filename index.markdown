@@ -4,7 +4,7 @@ author_profile: true
 toc: true
 ---
 
-# Welcome to my website !
+## Welcome to my website !
 
 My name is Haoyu Gu, or you can call me Stephen.  
   
