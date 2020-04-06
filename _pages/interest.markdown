@@ -37,9 +37,6 @@ gallery3:
     alt: "Shawshank's Redemption"
 ---
 
-## What I am interested in ?
-
-
 ## Sports
 
 I love playing badminton and watching football games.  
