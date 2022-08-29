@@ -94,20 +94,17 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Gu"
-  avatar           : "/assets/myAvatar.png"
-  bio              : "Simple, clean and elegant"
-  location         : "Waterloo, ON, Canada"
+  avatar           : "/assets/me.jpg"
+  bio              : "Simple & Clean"
+  location         : "Ithaca, NY, US"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: steph3ngu@gmail.com
+      url: steph3ngu@outlook.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/stephen-gu-92b669163/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ForKaori"
     - label: "Pixiv"
       icon: "fas fa-fw fa-paint-brush"
       url: "https://www.pixiv.net/users/42788636"
@@ -190,9 +187,9 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 

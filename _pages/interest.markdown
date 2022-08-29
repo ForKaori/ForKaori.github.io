@@ -46,15 +46,11 @@ I love playing badminton and watching football games.
 
 * Favorite football player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)
 * Favorite football club: [FC Barcelona](https://en.wikipedia.org/wiki/FC_Barcelona)
-* Favorite male badminton player: [Lin Dan](https://en.wikipedia.org/wiki/Lin_Dan)
-* Favorite female badminton player: [Matsutomo Misaki](https://en.wikipedia.org/wiki/Misaki_Matsutomo)
+* Favorite badminton player: [Lin Dan](https://en.wikipedia.org/wiki/Lin_Dan)
 
 ## Drawing
 
-I spent three years learning sketch when I was in primary school and middle school. However, due to
-the exams I stopped that for a long time.  
-
-If I'm not learning CS or Math in university, maybe...  
+I spent three years learning sketch when I was in primary school and middle school. 
 
 Right now I just draw random pictures (mostly are characters from animes). You can find some of my drawing on [Pixiv](https://www.pixiv.net/users/42788636).
 
@@ -62,9 +58,9 @@ Right now I just draw random pictures (mostly are characters from animes). You c
 
 ## Animes
 
-I started to watch animes when I entered college. You can find my anime list on [Bilibili](https://space.bilibili.com/55875820/bangumi).  
+I started to watch animes in high school. You can find my anime list on [Bilibili](https://space.bilibili.com/55875820/bangumi).  
 
-Here is the top six animes I've ever seen in my anime list, I will update when I see a better one.
+Here is the top six animes I've ever seen in my anime list, I will keep update.
 
 {% include gallery id="gallery2" caption="Top six animes from my list." %}
 
